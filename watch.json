@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 9500,
+      "material": "Stainless Steel",
+      "movement": "Automatic",
+      "waterResistance": "300 meters",
+      "features": ["Date", "Unidirectional Rotating Bezel"],
+      "image": "https://example.com/rolex-submariner.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Omega",
+      "model": "Speedmaster",
+      "price": 5200,
+      "material": "Stainless Steel",
+      "movement": "Manual",
+      "waterResistance": "50 meters",
+      "features": ["Chronograph", "Tachymeter"],
+      "image": "https://example.com/omega-speedmaster.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Tag Heuer",
+      "model": "Carrera",
+      "price": 3200,
+      "material": "Titanium",
+      "movement": "Automatic",
+      "waterResistance": "100 meters",
+      "features": ["Chronograph", "Date"],
+      "image": "https://example.com/tag-carrera.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Seiko",
+      "model": "Presage",
+      "price": 600,
+      "material": "Stainless Steel",
+      "movement": "Automatic",
+      "waterResistance": "100 meters",
+      "features": ["Date", "Power Reserve"],
+      "image": "https://example.com/seiko-presage.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Casio",
+      "model": "G-Shock",
+      "price": 150,
+      "material": "Resin",
+      "movement": "Quartz",
+      "waterResistance": "200 meters",
+      "features": ["Shock Resistant", "Alarm", "Stopwatch"],
+      "image": "https://example.com/casio-gshock.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Apple",
+      "model": "Apple Watch Series 9",
+      "price": 500,
+      "material": "Aluminum",
+      "movement": "Digital",
+      "waterResistance": "50 meters",
+      "features": ["Heart Rate Monitor", "GPS", "ECG"],
+      "image": "https://example.com/apple-watch-series9.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Breitling",
+      "model": "Navitimer",
+      "price": 7300,
+      "material": "Stainless Steel",
+      "movement": "Automatic",
+      "waterResistance": "30 meters",
+      "features": ["Chronograph", "Slide Rule Bezel"],
+      "image": "https://example.com/breitling-navitimer.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Patek Philippe",
+      "model": "Nautilus",
+      "price": 30000,
+      "material": "Rose Gold",
+      "movement": "Automatic",
+      "waterResistance": "120 meters",
+      "features": ["Date", "Moonphase"],
+      "image": "https://example.com/patek-nautilus.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Audemars Piguet",
+      "model": "Royal Oak",
+      "price": 28000,
+      "material": "Stainless Steel",
+      "movement": "Automatic",
+      "waterResistance": "50 meters",
+      "features": ["Date", "Power Reserve"],
+      "image": "https://example.com/audemars-royal-oak.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Tissot",
+      "model": "Le Locle",
+      "price": 600,
+      "material": "Stainless Steel",
+      "movement": "Automatic",
+      "waterResistance": "30 meters",
+      "features": ["Date", "Sapphire Crystal"],
+      "image": "https://example.com/tissot-le-locle.jpg"
+    }
+  ]
+  
